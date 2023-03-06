@@ -53,3 +53,33 @@ img {
     text-align: right;
     width: 25%;
 }
+
+.linha-de-baixo {
+    margin-top: 25px;
+}
+
+/* Rodapé */
+
+footer {
+    font-size: 14px;
+}
+
+.texto-rodape {
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
