@@ -1,0 +1,54 @@
+h1 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.fundacao {
+    font-style: italic;
+}
+
+hr {
+    background-color: brown;
+    border-color: brown;
+    height: 2px;
+}
+
+h1,
+h2 {
+    font-family: Impact, serif;
+}
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
+.itens p {
+    display: inline-block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.sabor {
+    text-align: left;
+    width: 75%;
+}
+
+.preco {
+    text-align: right;
+    width: 25%;
+}
