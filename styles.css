@@ -43,7 +43,8 @@ img {
     margin-top: 5px;
 }
 
-.sabor {
+.sabor,
+.sobremesa {
     text-align: left;
     width: 75%;
 }
